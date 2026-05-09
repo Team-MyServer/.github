@@ -1,38 +1,53 @@
 # Team MyServer
 
 <div align="left">
-  <img height="100px" src="profile/logo.png" alt="MyServer Logo" />
+  <img height="100px" src="https://raw.githubusercontent.com/Team-MyServer/.github/main/profile/logo.png" alt="MyServer Logo" />
   <br />
   <h3>Building the bridge between Discord communities and the web.</h3>
 </div>
 
 > **"Build in private — ship in public."**
 
-Most of our core infrastructure is kept under wraps to ensure security and focused development. However, we believe in transparency where it matters most: our documentation and public-facing utilities.
+Most of our core infrastructure is kept under wraps to ensure security, stability, and focused development. While our internal codebase remains private, we are committed to providing a transparent experience through our documentation and community-facing updates.
 
 ---
 
-## 🚀 What We Do
+## 🚀 Our Mission
 
-We develop and maintain **[mysrvr.org](https://mysrvr.org)**, a premier discovery platform designed to give Discord communities a high-performance, SEO-friendly home on the web. We focus on:
+We develop and maintain **[mysrvr.org](https://mysrvr.org)** — a premier discovery platform designed to give Discord communities a high-performance, SEO-friendly home on the web. Our mission is to move beyond simple "listing sites" and provide a professional ecosystem for community growth.
 
-* **Discoverability:** Helping users find the right communities.
-* **Analytics:** Providing insights for server owners.
-* **Integration:** Seamlessly connecting the Discord API with modern web technologies.
+### Core Focus Areas:
+* **Enhanced Discoverability:** Leveraging advanced SEO and categorization so the right users find the right communities instantly.
+* **Actionable Analytics:** Empowering server owners with data-driven insights into how users interact with their listings.
+* **Deep Integration:** Building robust middleware that seamlessly connects the Discord API with modern, high-speed web technologies.
+* **User Safety:** Implementing rigorous filtering and verification to ensure every community listed meets our quality standards.
 
 ---
 
-## 📂 What You’ll Find Here
+## 🛠 Our Tech Stack
 
-While our primary codebase is private, this organization serves as the hub for:
+To build a platform that handles high traffic and real-time Discord data, our team utilizes a modern and scalable stack:
 
-* 📄 **Public Documentation:** Guides and API references for our platform.
-* 🛠️ **Open Source Utilities:** Small tools and libraries we’ve built that the community might find useful.
-* 🧪 **Public Betas:** Occasional repositories for community testing and feedback.
+* **Frontend:** React, Next.js, and Tailwind CSS for a fast, responsive user interface.
+* **Backend:** Node.js and Go for high-concurrency API handling and background tasks.
+* **Database:** PostgreSQL for reliable structured data and Redis for ultra-fast caching.
+* **Infrastructure:** Docker and cloud-based scaling to ensure maximum uptime for our users.
+
+---
+
+## 📂 What’s in This Organization?
+
+This GitHub organization acts as the public landing page for the Team MyServer developer ecosystem. While we are currently in the early stages, this is where we will host:
+
+* **Platform Documentation:** Technical guides and API references for server owners.
+* **Community Assets:** Official logos, branding kits, and media assets for our partners.
+* **Public Roadmap:** Updates on what we are building and what's coming next to **mysrvr.org**.
 
 ---
 
 ## 🔗 Connect With Us
+
+Stay updated on our progress and be the first to know when we launch new features:
 
 | Resource | Link |
 | :--- | :--- |
@@ -42,16 +57,20 @@ While our primary codebase is private, this organization serves as the hub for:
 
 ---
 
-## 🤝 Contributing & Feedback
+## 🤝 Feedback & Suggestions
 
-Currently, we are **not accepting external code contributions** to our private repositories. However, we value your input:
+We are a community-first organization. Although our core repositories are private, we value your voice:
 
-1.  **Bug Reports:** Open an issue in our [Documentation](https://github.com/Team-MyServer/docs) repo.
-2.  **Feature Requests:** Reach out through our website or public issue trackers.
-3.  **Security:** If you find a vulnerability, please contact us directly via email rather than opening a public issue.
+1. **Bug Reports:** If you find an issue with the live platform, please report it through our website contact form.
+2. **Feature Requests:** We love hearing what the community needs. Feel free to reach out with ideas on how we can improve Discord discovery.
+3. **General Inquiries:** For business or partnership questions, please use our official contact channels.
 
 ---
 
 <div align="center">
-  <sub>© 2026 Team MyServer. Built for the community.</sub>
+  <br />
+  <sub>© 2026 Team MyServer. Built with ❤️ for the global Discord community.</sub>
+  <br />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status Active" />
+  <img src="https://img.shields.io/badge/License-Proprietary-blue?style=flat-square" alt="License" />
 </div>
