@@ -1,4 +1,6 @@
 # Team-MyServer
+<div align="left">
+  <img height="90px" src=".github/logo.png" alt="logo" /><br /><br />
 
 > We build in private — but we ship in public.
 
